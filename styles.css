@@ -1,0 +1,31 @@
+body {
+	font-family: sans-serif;
+	/*background-image: url(https://cdn.pixabay.com/photo/2017/08/10/08/47/code-2620118_1280.jpg);*/
+	/*background-image: url(https://visualhunt.com/photos/s/1/man-working-on-laptop-with-coffee-mug-in-background.jpg);*/
+	/*background-image: url(http://texturelib.com/Textures/wood/planks%20old/wood_planks_old_0039_01_preview.jpg);*/
+	/*background-image: url(https://i.pinimg.com/originals/22/58/77/2258774b1fa06788e600883d376c72cd.jpg);*/
+	background-image: url(http://www.rambina.com/wp-content/uploads/2016/05/website-design-background-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	font-family: futura;
+	margin-top: 200px;
+	font-size: 63px;
+	display: inline-block;
+	color: #fff;
+	line-height: 1em;
+	text-transform: uppercase;
+	letter-spacing: -0.1rem;
+	font-weight: 500;
+	font-style: normal;
+	/*white-space: nowrap;
+  	overflow: hidden;
+  	width: 30em;
+	animation: type 8s steps(60, end);*/
+}
+
+/*@keyframes type{ 
+  from { width: 0; } 
+}*/
